@@ -1,0 +1,29 @@
+
+.container{
+    position: absolute;
+    margin: 200px;
+    margin-bottom: 100px;
+    background-color: orange;
+    width: 200px;
+    border: 1px solid;
+}
+.display{
+    margin: 10px 10px;
+    width: 85%;
+    font-size: 20px;
+}
+.Display{
+    height: 25px;
+    width: 100%;
+}
+.button-container{
+   display: flex;
+ justify-content: center;
+   flex-wrap: wrap;
+}
+.button{
+   width: 45px;
+   height: 45px;
+   margin: 3px;
+
+}
